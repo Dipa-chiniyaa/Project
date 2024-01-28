@@ -3,4 +3,4 @@ The 4th Sem's Project List : the Repository for Loan management system, Cloth st
 <br>
 Date : 28 - 01 - 24
 <br>
-Author : Dipa Chiniya
+Author : Dipa Chiniya[ Bsc. IT Student ]
